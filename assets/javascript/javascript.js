@@ -6,7 +6,7 @@ var database = firebase.database();
     authDomain: "traintimeproject.firebaseapp.com",
     databaseURL: "https://traintimeproject.firebaseio.com",
     storageBucket: "traintimeproject.appspot.com",
- //   messagingSenderId: "269248819663"
+    messagingSenderId: "269248819663"
   };
   firebase.initializeApp(config);
 
